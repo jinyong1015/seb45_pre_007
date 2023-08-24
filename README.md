@@ -6,7 +6,7 @@
 - `팀 명` : Lucky7
 - `프로젝트 명` : Stackoverflow
 - `프로젝트 기간` : 2023.08.07 ~ 2023.08.23
-- `한줄 소개` : 개발자 커뮤니티 Stackoverflow를 클론코딩한 프로젝트입니다.
+- `한줄 소개` : 개발자 커뮤니티 Stackoverflow를 클론 코딩한 프로젝트입니다.
 - `배포 링크` : http://lucky7bucket.s3-website.ap-northeast-2.amazonaws.com/
 - `사용자 요구사항 정의서` : [사용자요구사항정의서(Lucky7).pdf](https://github.com/codestates-seb/seb45_pre_007/files/12414554/Lucky7.pdf)
 - `테이블 명세서` : [테이블 명세서_Lucky7.pdf](https://github.com/codestates-seb/seb45_pre_007/files/12414555/_Lucky7.pdf)
